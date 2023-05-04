@@ -35,6 +35,6 @@ Click on Build
 ![image](https://user-images.githubusercontent.com/96177041/236187066-b5585604-2ff8-43bc-b389-b22296414825.png)
 ![image](https://user-images.githubusercontent.com/96177041/236187142-720c2bc8-369a-4976-8d73-b7e2f346988d.png)
 ![image](https://user-images.githubusercontent.com/96177041/236187214-2ae93e2d-4dc6-42a8-b833-6dc7055a4509.png)
-
+ himasailu.github.io/FutureReadyTalent/
 
 
