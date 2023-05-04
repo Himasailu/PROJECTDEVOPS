@@ -29,5 +29,12 @@ Click on Build
 ![image](https://user-images.githubusercontent.com/96177041/236143227-1b268942-1633-4ca5-b7ca-e109f07da7d6.png)
 ![image](https://user-images.githubusercontent.com/96177041/236143282-1d0b1218-02c6-4c04-8399-b5526c2cd193.png)
 ![image](https://user-images.githubusercontent.com/96177041/236143330-3f81304f-1a5d-4b0a-b883-14f207f6a51d.png)
+# EKS
+![image](https://user-images.githubusercontent.com/96177041/236186863-0b2de6f5-c66b-4219-be3d-b7dc962608bc.png)
+![image](https://user-images.githubusercontent.com/96177041/236186983-accdb9be-2804-4c39-9e7e-cdc35810d64f.png)
+![image](https://user-images.githubusercontent.com/96177041/236187066-b5585604-2ff8-43bc-b389-b22296414825.png)
+![image](https://user-images.githubusercontent.com/96177041/236187142-720c2bc8-369a-4976-8d73-b7e2f346988d.png)
+![image](https://user-images.githubusercontent.com/96177041/236187214-2ae93e2d-4dc6-42a8-b833-6dc7055a4509.png)
+
 
 
